@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "При использовании кода, данных или методик укажите этот репозиторий и конкретный релиз."
+title: "KONTAKTS Arduino UNO"
+type: software
+authors:
+  - family-names: "Иванов"
+    given-names: "Алексей"
+version: 0.1.0
+date-released: 2026-08-01
+keywords:
+  - Arduino UNO
+  - ATmega328P
+  - embedded systems
+  - electronics education
+  - reproducible research

@@ -1,0 +1,25 @@
+# Arduino / PlatformIO
+.pio/
+build/
+*.hex
+*.elf
+*.eep
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets and local data
+.env
+secrets.h
+credentials.h
+wifi_credentials.h
+
+# Generated reports
+reports/generated/

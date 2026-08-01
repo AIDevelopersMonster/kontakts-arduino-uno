@@ -1,0 +1,29 @@
+name: Карточка платы или модуля
+description: Добавить идентификацию и результаты проверки железа
+title: "[HARDWARE] "
+labels: [hardware, needs-triage]
+body:
+  - type: input
+    id: marking
+    attributes:
+      label: Маркировка и ревизия
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Тип
+      options: [UNO R3, UNO R4, совместимая плата, шилд, модуль, датчик, другое]
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Что уже проверено
+      description: Фото, измерения, USB-мост, MCU, питание, загрузка
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Ссылки на форум, статью или видео

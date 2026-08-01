@@ -1,0 +1,29 @@
+name: Исследовательский эксперимент
+description: Сформулировать воспроизводимый вопрос и протокол
+title: "[R&D] "
+labels: [research, needs-protocol]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Проверяемый вопрос
+    validations:
+      required: true
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Гипотеза и критерий опровержения
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Метод, оборудование и число повторов
+    validations:
+      required: true
+  - type: textarea
+    id: outputs
+    attributes:
+      label: Какие данные и артефакты будут опубликованы?
+    validations:
+      required: true

@@ -1,0 +1,30 @@
+name: Новый проект
+description: Предложить законченное устройство или эталонный пример
+title: "[PROJECT] "
+labels: [project, needs-triage]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Какой работающий результат должен получиться?
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Плата и компоненты
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Критерий готовности и проверки
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Уровень
+      options: [START, MAKER, ENGINEERING, R&D]
+    validations:
+      required: true

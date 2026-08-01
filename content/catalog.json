@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "project": "KONTAKTS Arduino UNO",
+  "forum_section": "http://kontakts.ru/forumdisplay.php/191",
+  "items": [
+    {
+      "id": "KONTAKTS-UNO-PROJ-001",
+      "title": "Blink Baseline: базовая проверка UNO",
+      "type": "PROJ",
+      "status": "DRAFT",
+      "github_path": "projects/001-blink-baseline",
+      "kontakts_article": "",
+      "forum_url": "",
+      "youtube_url": "",
+      "zenodo_doi": ""
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-001",
+      "thread_id": 40859,
+      "title": "Интеллектуальная система управления солнечной батареей",
+      "url": "http://kontakts.ru/showthread.php/40859",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-002",
+      "thread_id": 40837,
+      "title": "Arduino мини ЧПУ плоттер",
+      "url": "http://kontakts.ru/showthread.php/40837",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-003",
+      "thread_id": 40402,
+      "title": "Hy-m302 многофункциональная плата расширения.",
+      "url": "http://kontakts.ru/showthread.php/40402",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-004",
+      "thread_id": 40822,
+      "title": "Arduino UNO & двигатель 28BYJ-48 & ULN2003",
+      "url": "http://kontakts.ru/showthread.php/40822",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-005",
+      "thread_id": 40794,
+      "title": "Шилд Shield (Плата расширения) для Ардуино Уно. Arduino Uno.",
+      "url": "http://kontakts.ru/showthread.php/40794",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-006",
+      "thread_id": 40701,
+      "title": "Набор для самостоятельной сборки 3d-принтера Arduino UNO R3",
+      "url": "http://kontakts.ru/showthread.php/40701",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-007",
+      "thread_id": 40661,
+      "title": "The Arduino Uno R4",
+      "url": "http://kontakts.ru/showthread.php/40661",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-008",
+      "thread_id": 40458,
+      "title": "Project Kit для Arduino UNO R3 V4",
+      "url": "http://kontakts.ru/showthread.php/40458",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-009",
+      "thread_id": 40448,
+      "title": "KONTAKTS(RDUINO UNO) Starter Kit",
+      "url": "http://kontakts.ru/showthread.php/40448",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-010",
+      "thread_id": 40440,
+      "title": "EASY Starter Kit",
+      "url": "http://kontakts.ru/showthread.php/40440",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-011",
+      "thread_id": 40449,
+      "title": "Макетная плата OPEN-SMART Blue ATmega328P",
+      "url": "http://kontakts.ru/showthread.php/40449",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-012",
+      "thread_id": 40457,
+      "title": "Плата расширения Arduino Sensor Shield V5.0",
+      "url": "http://kontakts.ru/showthread.php/40457",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-013",
+      "thread_id": 40438,
+      "title": "Стартовый набор для Arduino, ESP2866 IoT Starter Kit",
+      "url": "http://kontakts.ru/showthread.php/40438",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-014",
+      "thread_id": 40432,
+      "title": "OPEN-SMART Rich UNO R3",
+      "url": "http://kontakts.ru/showthread.php/40432",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-015",
+      "thread_id": 40403,
+      "title": "USART in Arduino Uno",
+      "url": "http://kontakts.ru/showthread.php/40403",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-016",
+      "thread_id": 40233,
+      "title": "Guides for Arduino sensors and modules",
+      "url": "http://kontakts.ru/showthread.php/40233",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-017",
+      "thread_id": 40143,
+      "title": "pH Meter using Arduino Uno and LCD Display (СДЕЛАНО)",
+      "url": "http://kontakts.ru/showthread.php/40143",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-018",
+      "thread_id": 40209,
+      "title": "Arduino RGB Colour Picker",
+      "url": "http://kontakts.ru/showthread.php/40209",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-019",
+      "thread_id": 40155,
+      "title": "Arduino Polygraph Machine (Lie Detector)",
+      "url": "http://kontakts.ru/showthread.php/40155",
+      "status": "legacy-unreviewed"
+    },
+    {
+      "id": "KONTAKTS-UNO-LEGACY-020",
+      "thread_id": 40147,
+      "title": "инфракрасный пульт или приемник и передатчик ir на ардуино uno",
+      "url": "http://kontakts.ru/showthread.php/40147",
+      "status": "legacy-unreviewed"
+    }
+  ]
+}
