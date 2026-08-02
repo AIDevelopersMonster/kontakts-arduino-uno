@@ -33,7 +33,7 @@
       "github_path": "projects/003-gui-lcd1602",
       "kontakts_article": "",
       "forum_url": "",
-      "youtube_url": "",
+      "youtube_url": "https://youtube.com/shorts/x6kkZxzQmYg",
       "zenodo_doi": ""
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "KONTAKTS-UNO-LEGACY-006",
       "thread_id": 40701,
-      "title": "Набор для самостоятельной сборки 3d-принтера Arduino UNO R3",
+      "title": "Набор для самостоятельной сборки 3d-принтера Arduino UNO R3 V4",
       "url": "http://kontakts.ru/showthread.php/40701",
       "status": "legacy-unreviewed"
     },
