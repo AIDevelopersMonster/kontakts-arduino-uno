@@ -26,6 +26,17 @@
       "zenodo_doi": ""
     },
     {
+      "id": "KONTAKTS-UNO-PROJ-003",
+      "title": "GUI LCD1602 I2C: экран 16×2 и генератор символов",
+      "type": "PROJ",
+      "status": "BENCH-TESTED",
+      "github_path": "projects/003-gui-lcd1602",
+      "kontakts_article": "",
+      "forum_url": "",
+      "youtube_url": "",
+      "zenodo_doi": ""
+    },
+    {
       "id": "KONTAKTS-UNO-LEGACY-001",
       "thread_id": 40859,
       "title": "Интеллектуальная система управления солнечной батареей",
