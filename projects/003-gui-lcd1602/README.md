@@ -2,6 +2,10 @@
 
 **Статус: `BENCH-TESTED`** — прошивка, Windows GUI, вывод текста, подсветка и пользовательские символы проверены пользователем на реальной Arduino UNO с LCD1602 I2C.
 
+## Видео
+
+[YouTube Shorts — демонстрация GUI LCD1602 I2C](https://youtube.com/shorts/x6kkZxzQmYg)
+
 ## Что делает проект
 
 Windows-приложение управляет символьным LCD1602 через Arduino UNO и USB/Serial:
