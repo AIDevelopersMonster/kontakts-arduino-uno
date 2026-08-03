@@ -17,9 +17,9 @@ verification:
   instruments: ["визуальный осмотр", "видеоотчёт пользователя"]
 links:
   github: "docs/hardware/shields/multi-function-shield-hw262"
-  kontakts_article: ""
-  forum: "http://kontakts.ru/showthread.php/40402"
-  youtube: ""
+  kontakts_article: "http://kontakts.ru/showthread.php/40995"
+  forum: "http://kontakts.ru/showthread.php/40995"
+  youtube: "https://youtu.be/QEDrq-JDfx0"
   zenodo: ""
 dates:
   created: 2026-08-03
@@ -33,6 +33,11 @@ dates:
 
 > [!WARNING]
 > Внешне похожие платы могут иметь отличающуюся разводку. Приведённая карта контактов считается рабочей гипотезой до завершения стендовых тестов конкретного экземпляра.
+
+## Связанные материалы
+
+- [Обзорное видео: Arduino UNO и Multi-Function Shield](https://youtu.be/QEDrq-JDfx0)
+- [Статья и обсуждение на KONTAKTS](http://kontakts.ru/showthread.php/40995)
 
 ## Фотографии экземпляра
 
@@ -50,7 +55,7 @@ dates:
 </p>
 <p align="center"><em>Обратная сторона платы. Нажмите на изображение, чтобы открыть оригинальный размер.</em></p>
 
-Исходные файлы документации: [`front.jpg`](photos/front.jpg) · [`back.jpg`](photos/back.jpg)
+Исходные файлы документации: [`front.png`](photos/front.png) · [`back.png`](photos/back.png)
 
 ## 1. Назначение
 
