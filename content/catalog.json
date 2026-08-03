@@ -37,6 +37,17 @@
       "zenodo_doi": ""
     },
     {
+      "id": "KONTAKTS-UNO-HW-SHIELD-002",
+      "title": "Multi-Function Shield HW-262-compatible для Arduino UNO",
+      "type": "HW",
+      "status": "DRAFT",
+      "github_path": "docs/hardware/shields/multi-function-shield-hw262",
+      "kontakts_article": "http://kontakts.ru/showthread.php/40995",
+      "forum_url": "http://kontakts.ru/showthread.php/40995",
+      "youtube_url": "https://youtu.be/QEDrq-JDfx0",
+      "zenodo_doi": ""
+    },
+    {
       "id": "KONTAKTS-UNO-LEGACY-001",
       "thread_id": 40859,
       "title": "Интеллектуальная система управления солнечной батареей",
