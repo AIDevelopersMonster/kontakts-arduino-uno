@@ -50,7 +50,7 @@ dates:
 </p>
 <p align="center"><em>Обратная сторона платы. Нажмите на изображение, чтобы открыть оригинальный размер.</em></p>
 
-Исходные файлы документации: [`front.png`](photos/front.png) · [`back.png`](photos/back.png)
+Исходные файлы документации: [`front.jpg`](photos/front.jpg) · [`back.jpg`](photos/back.jpg)
 
 ## 1. Назначение
 
