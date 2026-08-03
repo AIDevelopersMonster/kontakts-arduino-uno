@@ -37,20 +37,20 @@ dates:
 ## Фотографии экземпляра
 
 <p align="center">
-  <a href="photos/front.jpg">
-    <img src="photos/front.jpg" alt="Лицевая сторона Multi-Function Shield HW-262-compatible" width="640">
+  <a href="photos/front.png">
+    <img src="photos/front.png" alt="Лицевая сторона Multi-Function Shield HW-262-compatible" width="640">
   </a>
 </p>
 <p align="center"><em>Лицевая сторона платы. Нажмите на изображение, чтобы открыть оригинальный размер.</em></p>
 
 <p align="center">
-  <a href="photos/back.jpg">
-    <img src="photos/back.jpg" alt="Обратная сторона Multi-Function Shield HW-262-compatible" width="640">
+  <a href="photos/back.png">
+    <img src="photos/back.png" alt="Обратная сторона Multi-Function Shield HW-262-compatible" width="640">
   </a>
 </p>
 <p align="center"><em>Обратная сторона платы. Нажмите на изображение, чтобы открыть оригинальный размер.</em></p>
 
-Исходные файлы документации: [`front.jpg`](photos/front.jpg) · [`back.jpg`](photos/back.jpg)
+Исходные файлы документации: [`front.png`](photos/front.png) · [`back.png`](photos/back.png)
 
 ## 1. Назначение
 
